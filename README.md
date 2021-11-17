@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Fernando Carlos Guimarães 🚀</h1>
+<h1 align="center">Olá 👋,me Chamo Fernando Carlos Guimarães 🚀</h1>
 
-- 🔭 I’m currently working on *OI*
+- 🔭 Atualmente estou trabalhando na *Operadora OI *
 
-- 🌱 I’m currently learning *SpringBoot, Laravel*
+- 🌱 Atualmente estou aprendendo *SpringBoot, Laravel*
 
-- 👨‍💻 All of my projects are available at [https://github.com/fernandoguim](https://github.com/fernandoguim)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/fernandoguim](https://github.com/fernandoguim)
 
- - 💬 Ask me about *PHP,JAVA*
+ - 💬 Pergunte-me sobre *PHP,JAVA*
 
-- 📫 How to reach me *fernandocarlos77@gmail.com*
+- 📫 Como me encontrar *fernandocarlos77@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
