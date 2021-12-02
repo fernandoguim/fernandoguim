@@ -10,10 +10,9 @@
 
 <hr>
 <div align="center">
-<a href="https://github.com/fernandoguim"><img height="180em" width="630" src="https://github-readme-stats.vercel.app/api?username=fernandoguim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em"  width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoguim&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/fernandoguim"><img height="180em" width="630" src="https://github-readme-stats.vercel.app/api?username=fernandoguim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="175em"  width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoguim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- 
- <div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -23,7 +22,6 @@
   <img align="center" alt="photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    
  </div> 
  <hr>
  <div> 
