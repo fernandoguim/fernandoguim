@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na *Operadora OI *
 
-- 🌱 Atualmente estou aprendendo *SpringBoot, Laravel, Javascript*
+- 🌱 Atualmente estou aprendendo *SpringBoot, Laravel, Javascript, Reatcjv*
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/fernandoguim](https://github.com/fernandoguim)
 
