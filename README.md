@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na *Operadora OI *
 
-- 🌱 Atualmente estou aprendendo *SpringBoot, Laravel, Javascript, Reatcjv*
+- 🌱 Atualmente estou aprendendo *SpringBoot, Laravel, Javascript, Reatcjv, Node, Vue, Angular*
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/fernandoguim](https://github.com/fernandoguim)
 
@@ -29,7 +29,7 @@
   <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="google" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="angular" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
    
  </div> 
