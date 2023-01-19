@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋,me Chamo Fernando Carlos Guimarães. 🚀🚀</h1>
 
-- 🔭 Atualmente estou trabalhando na *Operadora OI*
+- 🔭 Atualmente estou trabalhando na *Operadora CLARO*
 
 - 🌱 Atualmente estou aprendendo *SpringBoot, Laravel, Javascript, Reatcjv, Node, Vue, Angular*
 
